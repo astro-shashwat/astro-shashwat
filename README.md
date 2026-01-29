@@ -1,25 +1,32 @@
-# Hi 👋, I'm Shashwat Srivastava  
+# Hi 👋, I'm Shashwat Srivastava
 
-![Profile Views](https://komarev.com/ghpvc/?username=astro-shashwat&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=astro-shashwat&style=flat-square&color=blue)
 
-## 🚀 About Me  
-- 🎓 Physics Honours Graduate | Aspiring Astrophysicist  
-- 💻 I am still learning to code Physics!!
-- 🌌 Interested in Theoretical Astrophysics & Machine Learning  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=astro-shashwat&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astro-shashwat&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=astro-shashwat&theme=tokyonight&hide_border=true)  
+## 🚀 About Me
+- 🎓 Physics Honours Graduate | Aspiring Astrophysicist
+- 💻 Learning to code physics through simulations and numerical methods
+- 🌌 Interested in Theoretical Astrophysics & Machine Learning for science
 
 ---
 
-## 🏆 Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=astro-shashwat&theme=onedark&row=1&column=6)  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=astro-shashwat&show_icons=true&hide_rank=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astro-shashwat&layout=compact)
 
 ---
 
-## 📈 Activity  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=astro-shashwat&theme=react-dark)  
+## 🏆 Highlights
+
+> Focused on building strong fundamentals in scientific computing and physics-based modeling.
+
+---
+
+## 📈 Activity
+
+*(Kept minimal to avoid unstable services)*  
+You can view my recent activity directly on my GitHub profile.
+
+---
+
