@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-- 🎓 Physics Honours Graduate | Aspiring Astrophysicist
+- 🎓 Astronomy Majors ( IIT Indore ) | Aspiring Cosmologist
 - 💻 Learning to code physics and STUFF!!
-- 🌌 Interested in Theoretical Astrophysics & Machine Learning for science
+- 🌌 Interested in Theoretical Cosmology & ML for science
 
 ---
 
